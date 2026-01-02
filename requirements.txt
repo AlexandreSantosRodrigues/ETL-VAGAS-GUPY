@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pandas
+gspread
+oauth2client
+kaggle-secrets
