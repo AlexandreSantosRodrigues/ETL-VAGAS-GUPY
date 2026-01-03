@@ -40,3 +40,4 @@ O script possui um mapeamento inteligente que corrige inconsistências comuns em
     * É necessário um arquivo `service_account.json` do Google Cloud Platform para acesso à API do Sheets.
     * *Nota: Por segurança, as credenciais não estão incluídas neste repositório.*
 
+![vagas - gupy](https://github.com/user-attachments/assets/5c31b2a6-0518-4c8a-9d18-6d93c88bc075)
