@@ -26,18 +26,7 @@ O script possui um mapeamento inteligente que corrige inconsistências comuns em
 * *Exemplo:* Uma vaga listada como "Barueri - SP" ou "Alphaville" é automaticamente categorizada como **São Paulo**.
 * *Exemplo:* Vagas com termos "Home Office" ou "Remote" têm prioridade e são classificadas como **Remoto**, independente da cidade sede da empresa.
 
-## 📦 Como Executar
 
-1.  Clone o repositório:
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/ETL-VAGAS-GUPY.git](https://github.com/SEU-USUARIO/ETL-VAGAS-GUPY.git)
-    ```
-2.  Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Configuração de Credenciais:
-    * É necessário um arquivo `service_account.json` do Google Cloud Platform para acesso à API do Sheets.
-    * *Nota: Por segurança, as credenciais não estão incluídas neste repositório.*
 
-![vagas - gupy](https://github.com/user-attachments/assets/5c31b2a6-0518-4c8a-9d18-6d93c88bc075)
+![vagas - gupy](https://github.com/user-attachments/assets/79c123d4-1a10-47b1-8f57-f5bb0f5a329f)
+
