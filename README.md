@@ -28,5 +28,5 @@ O script possui um mapeamento inteligente que corrige inconsistências comuns em
 
 
 
-![vagas - gupy](https://github.com/user-attachments/assets/79c123d4-1a10-47b1-8f57-f5bb0f5a329f)
+<img width="1436" height="808" alt="image" src="https://github.com/user-attachments/assets/93f62d05-3598-4cae-a78d-e96265cc8835" />
 
